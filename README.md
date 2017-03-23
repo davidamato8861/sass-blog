@@ -1,5 +1,5 @@
-# sass-blog
+## Sass-blog
 
-Entries:
+# Entries:
 
 Entry 1 - Finding a Topic
