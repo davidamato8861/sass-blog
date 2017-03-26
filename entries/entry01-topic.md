@@ -20,10 +20,10 @@ Furthermore, Active Record used the model of the mvc which I mostly disliked, an
 Because of this, I was left with Sass, or Syntactically Awesome Stylesheets Sass. Before researching, I knew this topic would be a lot of fun and interesting to say the least, which led me to want to learn more about it.
 On the Sass webpage, one of the reasons why developers choose Sass is because it is directly compatible with css, which is one of the languages I want to learn more about.
 
-![Sass](images/Pic1.png)
+![Sass](https://www.dropbox.com/s/9mnmblpc1ysmlkd/Pic_1.png?dl=0)
 
 
-In conclusion, Sass is what I will be learning for the next 8 weeks. This is because it is compatible with a programming language I know, someting that is interesting to learn,
+In conclusion, Sass is what I will be learning for the next 8 weeks. This is because it is compatible with a programming language I know, something that is interesting to learn,
 and something I know that I can use in later projects.
 
 
