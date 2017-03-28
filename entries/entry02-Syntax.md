@@ -23,3 +23,5 @@ body
 Additonally, you can have different sized headers, italics and bolded words, lists and images. Also, 
 including links is really easy considering you can use either html or markdown.  
 
+
+[All Entries](../README.md)
