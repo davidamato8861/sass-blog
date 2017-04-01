@@ -50,4 +50,30 @@ nav a {
 }
 ```
 
+#### Partials
+Partials are basically "snapshots" or snippets of code that sass does not translate into regular css, unlike what sass normally does to css. Additionally, 
+creating partials makes mainting the user's pre-written css easier.
+
+#### Operators
+Much like css, sass can take the user's math operators: ```+```,```-```,```*```,```/```,```%``` and sort
+them in a much more effiecient way: 
+
+##### Sass:
+```
+.container
+  width: 100%
+```
+
+##### Css:
+```
+.container { width: 100%; }
+```
+
+#### Takeaways
+ - When attempting to explain how a certain topic works, search on google for cheatsheets that give you a plethora of variables for the topic, similiar to this one here: [Cheatsheet](https://gist.github.com/hofmannsven/b219051467f86f2ac469)
+ - Tinker with code that you don't fully understand at first glance, and you will eventually get it.
+
+
+[Next]()
+
 [All Entries](../README.md)

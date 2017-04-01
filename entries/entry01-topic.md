@@ -27,4 +27,6 @@ In conclusion, Sass is what I will be learning for the next 8 weeks. This is bec
 and something I know that I can use in later projects.
 
 
+[Next](entry02-Syntax.md)
+
 [All Entries](../README.md)
