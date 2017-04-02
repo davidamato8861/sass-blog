@@ -1,8 +1,8 @@
 ## Syntax
 
-I began reading on google about sass because I wanted to see what the syntax is and more importantly, if it was similiar 
+I began reading on Google about sass because I wanted to see what the syntax is and more importantly, if it was similiar 
 to css or could be used with html. I had found the learn sass tab and it was good but, basic. So I decided to search
-on google to see if there were any easier or more effiecient ways of writing sass. I then stumbled accross some documentation on the sass-website, and it basically
+on Google to see if there were any easier or more effiecient ways of writing sass. I then stumbled across some documentation on the sass-website, and it basically
 gives you a cheatsheet where you can look at any topic and it will give you a whole description:
 
 <img src="https://github.com/davidamato8861/sass-blog/blob/master/images/Pic2.png" style="width: 395px;"/>
@@ -55,8 +55,8 @@ Partials are basically "snapshots" or snippets of code that sass does not transl
 creating partials makes mainting the user's pre-written css easier.
 
 #### Operators
-Much like css, sass can take the user's math operators: ```+```,```-```,```*```,```/```,```%``` and sort
-them in a much more effiecient way: 
+Much like css, sass can take the user's math operators: ```+```,```-```,```*```,```/```,```%``` and sorts
+them in a much more efficient way: 
 
 ##### Sass:
 ```
@@ -70,7 +70,7 @@ them in a much more effiecient way:
 ```
 
 #### Takeaways
- - When attempting to explain how a certain topic works, search on google for cheatsheets that give you a plethora of variables for the topic, similiar to this one here: [Cheatsheet](https://gist.github.com/hofmannsven/b219051467f86f2ac469)
+ - When attempting to explain how a certain topic works, search on Google for cheatsheets that give you a plethora of variables for the topic, similiar to this one here: [Cheatsheet](https://gist.github.com/hofmannsven/b219051467f86f2ac469)
  - Tinker with code that you don't fully understand at first glance, and you will eventually get it.
 
 
