@@ -6,4 +6,4 @@
 
 [Entry 2 - Syntax](entries/entry02-Syntax.md)
 
-[Entry 3 - Variables/Tinkerign](entries/entry03-var.md)
+[Entry 3 - Variables/Tinkering](entries/entry03-var.md)
