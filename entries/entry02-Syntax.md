@@ -73,7 +73,8 @@ them in a much more efficient way:
  - When attempting to explain how a certain topic works, search on Google for cheatsheets that give you a plethora of variables for the topic, similiar to this one here: [Cheatsheet](https://gist.github.com/hofmannsven/b219051467f86f2ac469)
  - Tinker with code that you don't fully understand at first glance, and you will eventually get it.
 
+[Previous](entry01-topic.md)
 
-[Next]()
+[Next](entry03-var.md)
 
 [All Entries](../README.md)
