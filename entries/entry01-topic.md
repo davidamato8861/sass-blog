@@ -1,4 +1,4 @@
-## Entry 1: Choosing a Topic
+## Choosing a Topic
 
 Choosing my topic was pretty difficult because I had some background knowledge on a few different languages.
 To begin, I started looking through documentation for a few different topics on the <a href="https://docs.google.com/document/d/1sYGyd4bthxhJ7Ap5X89Dc9YWKubw8T9lOAzvt0OIwuY/" target="_blank">list</a>
