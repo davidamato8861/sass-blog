@@ -58,9 +58,8 @@ Sass works exactly the same way with any other variable in css. Nevertheless, va
 
 
 
-
 [Previous](entry02-Syntax.md)
 
-Next
+[Next](entry04-data_maps.md)
 
 [All Entries](../README.md)
