@@ -1,7 +1,7 @@
 ## Data Types/Maps and Lists
 At first, I didn't really know where to begin because I just had finished going over the basics of variables and nesting, and while
 there is more to learn about nesting, I wanted to branch off and learn about two new topics in sass that looked interesting:
- - Data
+ - Data Types
  - Maps and Lists
 
 Since I have used both google and codeacademy as a reference, I decided to see if there were any lessons on codeacademy for data types.
