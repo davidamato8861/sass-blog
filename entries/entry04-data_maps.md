@@ -1,11 +1,12 @@
 ## Data Types/Maps and Lists
-At first, I didn't really know where to begin because I just had finished going over the basics of variables and nesting, and while
-there is more to learn about nesting, I wanted to branch off and learn about two new topics in sass that looked interesting:
+At first, I didn't really know where to begin because I just had finished going over variables and nesting, and while
+there is more to learn about nesting, I wanted to branch off and learn about two new interesting topics:
+
  - Data Types
  - Maps and Lists
  
 Since I have used both google and codeacademy as a reference, I decided to see if there were any lessons on codeacademy for data types.
-Sure enough, there were lessons on data types that the user can assign to different variables that they had already wrote in css.
+Sure enough, there were lessons that teach the user to assign the different variables that they had already wrote in css.
 
 Furthermore, Data Types hold different properties that can be used in a many ways. For example, there is number 
 data types that might be used when creating an image and it's dimensions, a string data type used when assigning that string to a specific variable, a boolean 
@@ -15,7 +16,7 @@ data type simply for true or false, as well as a null data type used to set an e
 - Numbers: ```1px...10px```
 - Colors: ```blue,orange```
 
-On the [sass reference page](http://sass-lang.com/documentation/file.SASS_REFERENCE.html#data_types), they have more examples of when to use data types, like the one below:
+On the [sass reference page](http://sass-lang.com/documentation/file.SASS_REFERENCE.html#data_types) they have more examples of when to use data types, like the one below:
 
 #### Strings
 
@@ -66,7 +67,7 @@ $icons: (
 }
 ```
 As you can see, sass makes it very simple and efficient in that it takes the user's coupled code and turns it into seperate categories, that can be easily 
-changed. 
+changed.   
 
 #### Takeaways
 - If you are using codeacademy, make sure to go over the lessons you pass because they could be helpful later on.
