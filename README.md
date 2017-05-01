@@ -9,3 +9,4 @@
 [Entry 3 - Variables/Tinkering](entries/entry03-var.md)
 
 [Entry 4 - Data Types/Maps and Lists](entries/entry04-data_maps.md)
+[Entry 5 - Mixins](entries/entry05-mixins.md)
