@@ -11,3 +11,5 @@
 [Entry 4 - Data Types/Maps and Lists](entries/entry04-data_maps.md)
 
 [Entry 5 - Mixins](entries/entry05-mixins.md)
+
+[Entry 6 - Functions](entries/entry06-functions.md)
