@@ -14,4 +14,4 @@
 
 [Entry 6 - Functions](entries/entry06-functions.md)
 
-[Entry 7 - Sass Str](entries/entry07-sass_structure.md)
+[Entry 7 - Sass Structure](entries/entry07-sass_structure.md)
