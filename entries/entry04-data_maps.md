@@ -75,6 +75,6 @@ changed.
 
 [Previous](entry03-var.md)
 
-Next
+[Next](entry05-mixins.md)
 
 [All Entries](../README.md)

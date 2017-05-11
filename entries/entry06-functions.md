@@ -50,7 +50,7 @@ The user can also style many different elements and assign multiple properties w
 
 [Previous](entry05-mixins.md)
 
-Next
+[Next](entry07-sass_structure.md)
 
 [All Entries](../README.md)
 

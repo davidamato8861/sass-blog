@@ -70,6 +70,6 @@ Mixins are also useful when using multiple variables in selectors.
 
 [Previous](entry04-data_maps.md)
 
-Next
+[Next](entry06-functions.md)
 
 [All Entries](../README.md)
