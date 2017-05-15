@@ -1,7 +1,7 @@
 ## Sass Structure
 
 I started this week finishing a few things from the last topic I covered, functions, and felt that there were a few things that 
-could be adressed in terms of sass' structure. Additionally, I will be going over a few mini topics that are an essential part of sass' file structure.
+could be adressed in terms of sass' structure. Additionally, I will be going over a few mini topics that are an essential part of sass' structure.
 
 One of the highlights of sass is that it is really easy to order pretty much any selector. This is because ordering/organizing files is built into the sass
 library. Here is a rundown of sass' basic file structure found on codeacademy:
@@ -16,7 +16,7 @@ library. Here is a rundown of sass' basic file structure found on codeacademy:
       - home.scss        # Home specific styles
       - contact.scss     # Contact specific styles
 ``` 
-The above file structure example shows four different categories inside of the sass directory, and inside of those four categories are important files. The files correspond to the
+The above file structure example shows two different categories inside of the sass directory, and inside of those two categories are important files. The files correspond to the
 category they are in. For example, in the layout category there are files named grid or header, because they are part of the pages "layout". Now, each persons layout will be different
 than the next but, anyone can follow this type of structuring method when building something using the sass language.
 
@@ -24,7 +24,7 @@ than the next but, anyone can follow this type of structuring method when buildi
 
 In CSS, there is a rule already in the library called '@Import'. So...sass took this rule from css and made it usable in .scss files, as well as other sass files.
 What happens is that sass files are imported or carried over into a main.scss file, which is usually/mostly found in sass directories. Then, the code written in main.scss is compiled into
-the ouput, which is just css. Additionally, the main.scss file will always have access to any variables found in other imported files. 
+the output, which is just css. Additionally, the main.scss file will always have access to any variables found in other imported files. 
 
 Furthermore, importing files can save you a lot of trouble since you won't have to write the same lines over and over again for a new selector. All you have
 to do is import files with variables already written, then your good to go.
