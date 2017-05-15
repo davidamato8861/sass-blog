@@ -5,16 +5,9 @@ could be adressed in terms of sass' structure. Additionally, I will be going ove
 
 One of the highlights of sass is that it is really easy to order pretty much any selector. This is because ordering/organizing files is built into the sass
 library. Here is a rundown of sass' basic file structure found on codeacademy:
+
 ``` 
 - Sass
-   - components
-      - buttons.scss     # Buttons
-      - cover.scss       # Cover
-      - carousel.scss    # Carousel
-   - helpers
-      - variables.scss   # Variables
-      - functions.scss   # Sass functions
-      - mixins.scss      # Sass mixins
    - layout
       - grid.scss        # Grid System
       - header.scss      # Header
@@ -27,7 +20,6 @@ The above file structure example shows four different categories inside of the s
 category they are in. For example, in the layout category there are files named grid or header, because they are part of the pages "layout". Now, each persons layout will be different
 than the next but, anyone can follow this type of structuring method when building something using the sass language.
 
-
 #### @Import
 
 In CSS, there is a rule already in the library called '@Import'. So...sass took this rule from css and made it usable in .scss files, as well as other sass files.
@@ -37,6 +29,11 @@ the ouput, which is just css. Additionally, the main.scss file will always have 
 Furthermore, importing files can save you a lot of trouble since you won't have to write the same lines over and over again for a new selector. All you have
 to do is import files with variables already written, then your good to go.
 
+#### Partials
+
+Partials are mostly used for importing different variables found in other files. One of these files are usually your `main.scss` file because that is where your sass would be stored. Furthermore,
+importing variables using partials is simple, just remember to include `_` before the file name, or sass will automatically compile it into css. Lastly, if you are going to import a partial into your main file, drop
+the underscore.
 
 #### @Extend
 
